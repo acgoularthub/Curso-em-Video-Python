@@ -2,13 +2,13 @@
 
 ### Desafio 1 (Nível: Café com Leite)
 
-Criar um script python que pergunte o nome da pessoa e retorne uma frase incluindo o nome recebido.
+Crie um script Python que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas de acordo com o valor digitado.
 
 ![desafio1](images/desafio1.png)
 
 ### Desafio 2 (Nível: Café com Leite)
 
-Criar um script python que receba o dia, o mês e o ano do nascimento e retorne uma frase contendo esses elementos.
+Criar um script python que leia o dia, mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formatada.
 
 ![desafio2](images/desafio2.png)
 
@@ -17,3 +17,4 @@ Criar um script python que receba o dia, o mês e o ano do nascimento e retorne 
 Criar um script python que receba dois valores numéricos e some os dois, retornando o resultado.
 
 ![desafio3](images/desafio3.png)
+
