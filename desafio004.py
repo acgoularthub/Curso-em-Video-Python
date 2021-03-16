@@ -1,0 +1,10 @@
+a = input('Digite algo que você queira saber seu tipo primitivo:\n')
+
+print('O tipo primitivo é: {}\n'.format(type(a)))
+print('São apenas espaços? {}\n'.format(a.isspace()))
+print('É um número? {}\n'.format(a.isnumeric()))
+print('É alfabético? {}\n'.format(a.isalpha()))
+print('É alfanumérico? {}\n'.format(a.isalnum()))
+print('Está em maiúsculas? {}\n'.format(a.isupper()))
+print('Está em minúsculas? {}\n'.format(a.islower()))
+print('Começa com naiúscula? {}\n'.format(a.istitle()))
