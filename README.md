@@ -95,3 +95,16 @@ Faça um algoritmo que leia o preço de um produto e mostre seu novo valor com u
 Faça um algoritmo que leia o valor do salário de um funcionário e mostre seu novo salário acrescido de 15%.
 
 ![desafio013](images/desafio013.png)
+
+### Desafio 014 (Nível: Fácil)
+Crie um programa de conversão de temperatura de Celsius para Fahrenheit.
+
+![desafio014](images/desafio014.png)
+
+
+### Desafio 015 (Nível: Fácil)
+
+Escreva um programa que pergunte a quantidade de quilômetros percorrido por um carro e a quantidade de dias pelos quais ele foi alugado. Sabendo que o carro custa R$ 60,00 a diária e R$ 0,15 por quilômetro percorrido.
+
+![desafio015](images/desafio015.png)
+
