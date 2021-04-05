@@ -108,3 +108,14 @@ Escreva um programa que pergunte a quantidade de quilômetros percorrido por um 
 
 ![desafio015](images/desafio015.png)
 
+### Desafio 016 (Nível: Fácil)
+
+Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+
+![desafio016](images/desafio016.png)
+
+### Desafio 017 (Nível: Fácil)
+
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+
+![desafio017](images/desafio017.png)
