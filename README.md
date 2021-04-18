@@ -119,3 +119,39 @@ Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela
 Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
 
 ![desafio017](images/desafio017.png)
+
+### Desafio 018 (Nível: Fácil)
+
+Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+![desafio018](images/desafio018.png)
+
+### Desafio 019 (Nível: Fácil)
+
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
+
+![desafio019](images/desafio019.png)
+
+### Desafio 020 (Nível: Fácil)
+
+O mesmo professor do desafio 19 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+![desafio020](images/desafio020.png)
+
+### Desafio 021 (Nível: Fácil)
+
+Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+
+[Não há retorno visual do programa, por isso não incluirei a print]
+
+### Desafio 022 (Nível: Fácil)
+
+Crie um programa que leia o nome completo de uma pessoa e mostre:
+- O nome com todas as letras maiúsculas.
+- Quantas letras ao todo (sem considerar espaços).
+- Quantas letras tem o primeiro nome.
+  
+![desafio022](images/desafio022.png)
+
+### Desafio 023 (Nível: Fácil)
+
